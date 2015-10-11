@@ -1,0 +1,12 @@
+.bar-style {
+	width: 300px;
+	height: 30px;
+	margin: 5px;
+	border: 1px solid gray;
+	position: relative;
+}
+
+.bar-style > div > div {
+	position: absolute;
+	left: 140px;
+}
